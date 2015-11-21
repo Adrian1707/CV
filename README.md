@@ -1,8 +1,7 @@
 ## Adrian Booth
 
 An enthusiastic, flame haired, tech fanatic seeking my first job in the industry. I have spent the past 3 months at Makers Academy learning not only how to code, but how to think. I've learnt how the agile 
-process works, and why testing is essential when producing quality code. I am ideally looking to work in an environment that is collaborative, religiously test driven, and provides support for junior staff in the form
-of code reviews in order to accelerate learning. I am language agnostic and know I can learn anything very quickly to start contributing value. 
+process works, and why testing is essential when producing quality code. I am ideally looking to work in an environment that is collaborative, test driven, and provides support for junior staff in order to accelerate learning. I am language agnostic and know I can learn anything very quickly to start contributing value. 
 
 You can get to know me better through my writing on my personal blog: http://ontheroadtocode.blogspot.co.uk/
 
