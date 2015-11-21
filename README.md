@@ -2,7 +2,7 @@
 
 An enthusiastic, flame haired, tech fanatic seeking my first job in the industry. I have spent the past 3 months at Makers Academy learning not only how to code, but how to think. I've learnt how the agile 
 process works, and why testing is essential when producing quality code. I am ideally looking to work in an environment that is collaborative, religiously test driven, and provides support for junior staff in the form
-of code reviews in order to accelerate learning. I am technologically agnostic and know I can learn anything very quickly to start contributing value. 
+of code reviews in order to accelerate learning. I am language agnostic and know I can learn anything very quickly to start contributing value. 
 
 You can get to know me better through my writing on my personal blog: http://ontheroadtocode.blogspot.co.uk/
 
@@ -11,9 +11,9 @@ Code Examples
 |Project Name | Description |
 |-------------|-------------|
 |[Grape] (https://github.com/Adrian1707/music_discover)|A social music discovery site called Grape that uses Neo4j graph database to connect users with similar music tastes|
-|[Chitter](https://github.com/Adrian1707/chitter-challenge)| Chitter is a Twitter clone built in Ruby on Sinatra using TDD|
-|[Instagram](https://github.com/Adrian1707/instagram-challenge)|An Instagram clone build in Rails and using Bootstrap on the front-end. This was built using a TDD approach|
-|[Rock, Paper, Scissors](https://github.com/Adrian1707/rps-challenge)|A small Ruby game of RPS built using Sinatra and entirely test driven|
+|[Chitter](https://github.com/Adrian1707/chitter-challenge)| Chitter is a Twitter clone built in Ruby on Sinatra|
+|[Instagram](https://github.com/Adrian1707/instagram-challenge)|An Instagram clone build in Rails and using Bootstrap on the front-end.|
+|[Rock, Paper, Scissors](https://github.com/Adrian1707/rps-challenge)|A small Ruby game of RPS built using Sinatra|
 
 Technical Skills and Technologies
 ---------------------------------
@@ -29,13 +29,13 @@ Education
 ---------
 #### Makers Academy: September - December 2015
 Highly selective 12 week intensive coding bootcamp.
-- Strict focus on Test Driven Development, with an emphasis on pair programming and working with Agile methodology
+- Strict focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
 - Object oriented programming, software design
 - Full stack web development
 - Final project: Grape! - a Rails social music discovery website that connects you to users with similar Spotify music libraries
 
 #### Cass Business School 2009-2013
-Bsc Investment and Financial Risk Management. Grade: 1st Class Honors 
+BSc Investment and Financial Risk Management. Grade: 1st Class Honors 
 
 
 Work Experience
