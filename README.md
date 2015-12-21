@@ -22,11 +22,11 @@ Technical Skills and Technologies
 ---------------------------------
 | |Most Comfortable|Comfortable|Touched on|
 |---------|----------------|-------------------|------------------------------|
-|Languages|Ruby, CSS|Javascript,|Python|
-|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord|Neo4j|                 |
+|Languages|Ruby, HTML/CSS|Javascript||
+|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord||Neo4j                 |
 |Frameworks|Rails, Sinatra|Meteor.js|Angular.js                       |
 |Testing|RSpec, Capybara|Jasmine, FactoryGirl, Fabricator|
-|Other|Version control through Github|Heroku deployment, Agile methodologies| |
+|Other|Version control through Github, TDD|Heroku deployment, Agile methodologies| |
 
 Education
 ---------
