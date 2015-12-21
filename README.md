@@ -4,6 +4,7 @@ An enthusiastic, flame haired, tech fanatic seeking my first job in the industry
 process works, and why testing is essential when producing quality code. I am ideally looking to work in an environment that is collaborative, test driven, and provides support for junior staff in order to accelerate learning. I am language agnostic and know I can learn anything very quickly to start contributing value.
 
 I have a proven ability to solve complex problems as shown through my Codewars profile http://www.codewars.com/users/Adrian1707
+
 You can view the methods and techniques I used to solve various problems in this repository https://github.com/Adrian1707/Codewars
 
 You can get to know me better through my writing on my personal blog: http://ontheroadtocode.blogspot.co.uk/
