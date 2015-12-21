@@ -1,7 +1,10 @@
 ## Adrian Booth
 
-An enthusiastic, flame haired, tech fanatic seeking my first job in the industry. I have spent the past 3 months at Makers Academy learning not only how to code, but how to think. I've learnt how the agile 
-process works, and why testing is essential when producing quality code. I am ideally looking to work in an environment that is collaborative, test driven, and provides support for junior staff in order to accelerate learning. I am language agnostic and know I can learn anything very quickly to start contributing value. 
+An enthusiastic, flame haired, tech fanatic seeking my first job in the industry. I have spent the past 3 months at Makers Academy learning not only how to code, but how to think. I've learnt how the agile
+process works, and why testing is essential when producing quality code. I am ideally looking to work in an environment that is collaborative, test driven, and provides support for junior staff in order to accelerate learning. I am language agnostic and know I can learn anything very quickly to start contributing value.
+
+I have a proven ability to solve complex problems as shown through my Codewars profile http://www.codewars.com/users/Adrian1707
+You can view the methods and techniques I used to solve various problems in this repository https://github.com/Adrian1707/Codewars
 
 You can get to know me better through my writing on my personal blog: http://ontheroadtocode.blogspot.co.uk/
 
@@ -34,13 +37,13 @@ Highly selective 12 week intensive coding bootcamp.
 - Final project: Grape! - a Rails social music discovery website that connects you to users with similar Spotify music libraries
 
 #### Cass Business School 2009-2013
-BSc Investment and Financial Risk Management. Grade: 1st Class Honors 
+BSc Investment and Financial Risk Management. Grade: 1st Class Honors
 
 
 Work Experience
 ---------------
 **Intern Structured Products Marketer**, Societe Generale: June 2014 - February 2015
-A short term internship with a French investment bank working for the structured products marketing team. Responsibilities included drafting presentations to pitch to clients 
+A short term internship with a French investment bank working for the structured products marketing team. Responsibilities included drafting presentations to pitch to clients
 and backtesting products using Excel to record their historical performance
 
 **Intern Equity Research Analyst**, RWC Partners: June 2011 - August 2012
@@ -48,25 +51,25 @@ A 14 month internship where I held the responsibility of monitoring a collection
 
 World Experience
 ---------------
-**8 Month Tour Across Africa** July 2013 - March 2014 
+**8 Month Tour Across Africa** July 2013 - March 2014
 I booked a one way ticket to Cape Town after my graduation and hoped for the best. My plan was made up as I went along, but after some time decided to travel to Cairo from Cape Town
-without flying. This trip took 8 months, and saw me climb Kilimanjaro, meet some Ugandan mountain gorillas, work for a Zambian children's charity, and land in hospital after getting 
-ambushed and beaten in Sudan by a group of men. I travelled to 12 countries in total and wrote about it all on this blog: 
-Investment Backpacker https://investmentbackpacker.wordpress.com/ 
+without flying. This trip took 8 months, and saw me climb Kilimanjaro, meet some Ugandan mountain gorillas, work for a Zambian children's charity, and land in hospital after getting
+ambushed and beaten in Sudan by a group of men. I travelled to 12 countries in total and wrote about it all on this blog:
+Investment Backpacker https://investmentbackpacker.wordpress.com/
 
 **2 Month Tour Across India** May 2015 - July 2015
 I flew to Mumbai and decided to immerse myself in Indian life. I immersed myself a bit too much, which led to 4 hospital visits in just 2 months, often due to food poisoning or a bad reaction
-to the heat. Despite having to fly home a month early due to another bout of illness, I loved travelling across the subcontinent. South India was my favourite region and the scenery and cuisine 
+to the heat. Despite having to fly home a month early due to another bout of illness, I loved travelling across the subcontinent. South India was my favourite region and the scenery and cuisine
 had everything to do with that.
 
 
-**3 Month Tour Around the World** June 2009 - September 2009 
+**3 Month Tour Around the World** June 2009 - September 2009
 I took my first backpacking trip around the world as I just turned 19. This led to experiences camping in Namibia, bungee jumping in New Zealand, shark diving in South Africa,
-trekking in China, and many many more. 
+trekking in China, and many many more.
 
 Interests
 ---------
-Adventures, Extreme Sports, Stand-up Comedy. 
+Adventures, Extreme Sports, Stand-up Comedy.
 
 More about me
 -------------
@@ -77,4 +80,4 @@ More about me
 - LinkedIn: https://www.linkedin.com/in/adrianfbooth
 - Codewars http://www.codewars.com/users/Adrian1707
 - Coding Blog: http://ontheroadtocode.blogspot.co.uk/
-- Travel Blog: https://investmentbackpacker.wordpress.com/ 
+- Travel Blog: https://investmentbackpacker.wordpress.com/
