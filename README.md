@@ -24,7 +24,7 @@ Technical Skills and Technologies
 |---------|----------------|-------------------|------------------------------|
 |Languages|Ruby, HTML/CSS|Javascript||
 |Databases/ORMS|PostGresQL, DataMapper, ActiveRecord||Neo4j                 |
-|Frameworks|Rails, Sinatra|Meteor.js|Angular.js                       |
+|Frameworks|Rails, Sinatra, Bootstrap|Meteor.js|Angular.js                       |
 |Testing|RSpec, Capybara|Jasmine, FactoryGirl, Fabricator|
 |Other|Version control through Github, TDD|Heroku deployment, Agile methodologies| |
 
