@@ -24,7 +24,7 @@ Technical Skills and Technologies
 |---------|----------------|-------------------|------------------------------|
 |Languages|Ruby, HTML/CSS|Javascript||
 |Databases/ORMS|PostGresQL, DataMapper, ActiveRecord||Neo4j                 |
-|Frameworks|Rails, Sinatra, Bootstrap|Meteor.js|Angular.js                       |
+|Frameworks|Rails, Sinatra, Bootstrap|Express.js|Angular.js,Meteor.js                       |
 |Testing|RSpec, Capybara|Jasmine, FactoryGirl, Fabricator|
 |Other|Version control through Github, TDD|Heroku deployment, Agile methodologies| |
 
@@ -82,3 +82,4 @@ More about me
 - Codewars http://www.codewars.com/users/Adrian1707
 - Coding Blog: http://ontheroadtocode.blogspot.co.uk/
 - Travel Blog: https://investmentbackpacker.wordpress.com/
+- Time Magazine 2006 Person of the Year: https://en.wikipedia.org/wiki/You_(Time_Person_of_the_Year)
