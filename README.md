@@ -22,7 +22,7 @@ Technical Skills and Technologies
 ---------------------------------
 | |Most Comfortable|Comfortable|Touched on|
 |---------|----------------|-------------------|------------------------------|
-|Languages|Ruby, HTML/CSS|Javascript||Python
+|Languages|Ruby, HTML/CSS|Javascript|Python|
 |Databases/ORMS|PostGresQL, DataMapper, ActiveRecord||Neo4j                 |
 |Frameworks|Rails, Sinatra, Bootstrap|Express.js|Angular.js,Meteor.js                       |
 |Testing|RSpec, Capybara|Jasmine, FactoryGirl, Fabricator|
@@ -77,7 +77,7 @@ More about me
 - Email: [Adrian.booth17@gmail.com](Adrian.booth17@gmail.com)
 - Phone: 078501 22007
 - Github: [@Adrian1707](https://github.com/Adrian1707)
-- Twitter: [@Adrian1707(https://twitter.com/Adrian1707)]
+- Twitter: [@Adrian1707](https://twitter.com/Adrian1707)
 - LinkedIn: https://www.linkedin.com/in/adrianfbooth
 - Codewars http://www.codewars.com/users/Adrian1707
 - Coding Blog: http://ontheroadtocode.blogspot.co.uk/
