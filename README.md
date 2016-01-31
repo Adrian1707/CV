@@ -17,7 +17,7 @@ Code Examples
 |[Bulls&Cows](https://github.com/Adrian1707/bulls_and_cows)| An addictive maths game built in Ruby|
 |[Chitter](https://github.com/Adrian1707/chitter-challenge)| Chitter is a Twitter clone built in Ruby on Sinatra|
 |[Rock, Paper, Scissors](https://github.com/Adrian1707/rps-javascript)|A small Javascript game of RPS built using Express|
-|[Instagram](https://github.com/Adrian1707/instagram-challenge)|An Instagram clone build in Rails and using Bootstrap on the front-end.|
+|[Instagram](https://github.com/Adrian1707/instagram-challenge)|An Instagram clone built in Rails and using Bootstrap on the front-end.|
 
 Technical Skills and Technologies
 ---------------------------------
